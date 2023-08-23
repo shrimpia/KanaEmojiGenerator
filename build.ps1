@@ -1,0 +1,1 @@
+﻿dotnet publish -c Release -p:PublishTrimmed=true -p:PublishReadyToRun=true -p:PublishSingleFile=true --sc
